@@ -17,6 +17,7 @@
     "url": "https://github.com/shad883/universal-gadget-backend2/issues"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }
